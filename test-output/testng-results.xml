@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="19103" started-at="2019-07-06T14:30:27Z" finished-at="2019-07-06T14:30:46Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="19103" started-at="2019-07-06T14:30:27Z" finished-at="2019-07-06T14:30:46Z">
+      <class name="test.TestOne">
+        <test-method status="PASS" signature="setupBrowser()[pri:0, instance:test.TestOne@520a3426]" name="setupBrowser" is-config="true" duration-ms="4020" started-at="2019-07-06T14:30:27Z" finished-at="2019-07-06T14:30:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupBrowser -->
+        <test-method status="PASS" signature="config()[pri:0, instance:test.TestOne@520a3426]" name="config" is-config="true" duration-ms="1" started-at="2019-07-06T14:30:31Z" finished-at="2019-07-06T14:30:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- config -->
+        <test-method status="PASS" signature="navigateToApplication()[pri:0, instance:test.TestOne@520a3426]" name="navigateToApplication" is-config="true" duration-ms="1868" started-at="2019-07-06T14:30:31Z" finished-at="2019-07-06T14:30:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToApplication -->
+        <test-method status="PASS" signature="bookTicket()[pri:0, instance:test.TestOne@520a3426]" name="bookTicket" duration-ms="9245" started-at="2019-07-06T14:30:33Z" finished-at="2019-07-06T14:30:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bookTicket -->
+        <test-method status="PASS" signature="navigateToApplication()[pri:0, instance:test.TestOne@520a3426]" name="navigateToApplication" is-config="true" duration-ms="1106" started-at="2019-07-06T14:30:43Z" finished-at="2019-07-06T14:30:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToApplication -->
+        <test-method status="PASS" signature="validateCredentialsOfUser()[pri:0, instance:test.TestOne@520a3426]" name="validateCredentialsOfUser" duration-ms="1" started-at="2019-07-06T14:30:44Z" finished-at="2019-07-06T14:30:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCredentialsOfUser -->
+        <test-method status="PASS" signature="closeApplicationAndTriggerEmail()[pri:0, instance:test.TestOne@520a3426]" name="closeApplicationAndTriggerEmail" is-config="true" duration-ms="2634" started-at="2019-07-06T14:30:44Z" finished-at="2019-07-06T14:30:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplicationAndTriggerEmail -->
+      </class> <!-- test.TestOne -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
